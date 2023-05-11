@@ -1,0 +1,70 @@
+#0
+dispatch render_rect {
+  "id": 0,
+  "renderer": "render_rect",
+  "x": 0,
+  "y": 0,
+  "angle": 0,
+  "scale": 1,
+  "w": 10,
+  "h": 10,
+  "color": "blue"
+}
+
+
+#1
+dispatch render_guy {
+  "id": 1,
+  "renderer": "render_guy",
+  "x": 0,
+  "y": 0,
+  "angle": 0,
+  "scale": 1,
+  "w": 10,
+  "h": 10,
+  "color": "red",
+  "name": "Adam",
+  "health": 14
+}
+
+
+#2
+dispatch render_guy {
+  "id": 2,
+  "renderer": "render_guy",
+  "x": 0,
+  "y": 0,
+  "angle": 0,
+  "scale": 1,
+  "w": 10,
+  "h": 10,
+  "color": "pink",
+  "name": "Argon",
+  "health": 0
+}
+
+
+#3
+dispatch render_guy {
+  "id": 3,
+  "renderer": "render_guy",
+  "x": 0,
+  "y": 0,
+  "angle": 0,
+  "scale": 1,
+  "w": 10,
+  "h": 10,
+  "color": "pink",
+  "name": "Cobalt",
+  "health": 0
+}
+
+
+#4
+dispatch render_custom {
+  "id": 4,
+  "renderer": "render_custom",
+  "message": "hello"
+}
+
+

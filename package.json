@@ -1,0 +1,6 @@
+{
+  "name": "jsfab",
+  "scripts": {
+    "generate": "node game.js | tee output.txt"
+  }
+}
